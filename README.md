@@ -2,8 +2,7 @@
 - 👀 I’m interested in Data Science and Web Development.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..LinkedIn=>.www.linkedin.com/in/
-vaishnavi-k-4172a3252
+- 📫 How to reach me .https://www.linkedin.com/in/vaishnavikhune/
 
 
 <!---
